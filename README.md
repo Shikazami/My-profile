@@ -8,8 +8,6 @@
 
 - I’m looking for help on **how to sleep**
 
-- my projects are available at [https://github.com/Shikazami](https://github.com/Shikazami)
-
 - 📝 I regularly write articles on [Twitter](Twitter)
 
 - 💬Ask me about **bad decisions**
